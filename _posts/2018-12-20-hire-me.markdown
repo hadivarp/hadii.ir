@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hire Me"
+color:  blue
+width:   3
+height:  1
+categories: jekyll update
+---
