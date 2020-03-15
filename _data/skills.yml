@@ -10,7 +10,7 @@
     xp: 8
 -   id: react
     descr: react
-    xp: 6
+    xp: 8
 -   id: postgre
     descr: postgre
     xp: 5
@@ -22,7 +22,7 @@
     xp: 3
 -   id: node.js
     descr: node.js
-    xp: 2
+    xp: 6
 -   id: cplusplus
     descr: cplusplus
     xp: 4
